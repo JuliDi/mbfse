@@ -1,0 +1,14 @@
+[package]
+name = "mbfse"
+version = "0.1.0"
+authors = ["JuliDi"]
+edition = "2018"
+publish = false
+
+
+[dependencies]
+rocket = "0.4.10"
+multipart = "0.18.0"
+nanoid = "0.4.0"
+lazy_static = "1.4.0"
+ammonia = "3.1.2"
