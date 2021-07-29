@@ -1,4 +1,4 @@
-[![Rust](https://github.com/JuliDi/mbfse/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/JuliDi/mbfse/actions/workflows/rust.yml)
+[![Rust](https://github.com/JuliDi/mbfse/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/JuliDi/mbfse/actions/workflows/rust.yml)
 
 # mbfse
 
